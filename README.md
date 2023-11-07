@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm a Web Engineer, mainly focused on Front End ecosystems, like [React](https://react.dev/) and [VueJs](https://vuejs.org/), Although I've worked as a Full Stack with [PHP](https://www.php.net/), [Elixir](https://elixir-lang.org/) and [NodeJs](https://nodejs.org/en), I feel more comfortable and I think I'm more productive working with the UI than with servers.
+I’m a Senior Web Engineer with a primary focus on Front End Applications. I have over 18 years of experience working with Web Technologies, with a strong emphasis on building User Interfaces.
 
-In the last years, I've worked with teams building SPAs (Single Page Apps) for companies like [Freestar](https://freestar.com/), [Spot2Nite](https://www.spot2nite.com/), and [Convert](https://www.convert.com/) using [Vue](https://vuejs.org/), [React](https://react.dev/), and [RactiveJs](https://ractive.js.org/) respectively.
+I enjoy building amazing Web Products transforming UI/UX designs into highly maintainable, efficient, well-tested, and readable code solutions.
+My dedication to the products I work on is comprehensive, from end to end. I understand and respect the significance of meeting deadlines while consistently delivering high-quality software. 
 
-I can work with a Web App Product from End to End, bootstrapping the repo from scratch, designing the project architecture, configuring the test suite, and setting up the CI/CD pipeline. I can even adapt to existing environments and learn the required technologies to be proficient in the project.
+I’m an advocate of the Kaizen principle, which promotes the idea that constant, incremental improvement is the key to achieving lasting and impactful success.
 
-I enjoy working with all types of teams, from cross-functional to homogeneous ones, depending on the necessities of the company. I value investing in developing communication skills, to craft the art of working with people, for I believe soft skills are protagonists in any working environment, and they impact heavily on the success or failure of solving problems in highly efficient teams.
+My mantra is _“Progress, not perfection”._
 
 - 🔭 I’m currently working on a random joke app [theoneliner](https://github.com/alexserver/theoneliner)
 - 🌱 I’m currently learning [remix](https://remix.run/)
