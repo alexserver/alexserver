@@ -19,7 +19,14 @@ I enjoy working with all types of teams, from cross-functional to homogeneous on
   - [LinkedIn](https://www.linkedin.com/in/alejandrogomezarceo/)
 - 😄 Pronouns: He/Him
 
-You can know more about me in [gomezarceo.mx](https://gomezarceo.mx/about/en)
+### Projects
+
+- [The oneliner](https://theoneliner.netlify.app)
+- [La bodega](https://github.com/alexserver/la-bodega)
+
+### Resume
+
+You can know more about me in [gomezarceo.mx](https://gomezarceo.mx/resume/en)
 
 <!--
 **alexserver/alexserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
