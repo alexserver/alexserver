@@ -21,8 +21,9 @@ I enjoy working with all types of teams, from cross-functional to homogeneous on
 
 ### Projects
 
-- [The oneliner](https://theoneliner.netlify.app)
-- [La bodega](https://github.com/alexserver/la-bodega)
+- [The oneliner](https://theoneliner.netlify.app). A random joke comedian, made with Remix.
+- [La bodega](https://github.com/alexserver/la-bodega). An online store demo made with NextJs and TailwindCSS.
+- [Soft Skills](https://soft-skills.gomezarceo.mx/). A soft skills cheatsheet made with Astro.
 
 ### Resume
 
