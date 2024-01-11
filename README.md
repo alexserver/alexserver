@@ -23,12 +23,12 @@ My mantra is _“Progress, not perfection”._
 ### Projects
 
 - [The oneliner](https://theoneliner.vercel.app/). A random joke comedian, made with Remix.
-- [La bodega](https://github.com/alexserver/la-bodega). An online store demo made with NextJs and TailwindCSS.
+- [Paisania](https://paisania.es). A platform that wants to connect conscious travelers with local communities within Spain (coming-soon).
 - [Soft Skills](https://soft-skills.gomezarceo.mx/). A soft skills cheatsheet made with Astro.
 
 ### Resume
 
-You can know more about me in [gomezarceo.mx](https://gomezarceo.mx/resume/en)
+You can know more about me in [gomezarceo.mx](https://gomezarceo.mx)
 
 <!--
 **alexserver/alexserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
