@@ -1,32 +1,25 @@
 ### Hi there 👋
 
-I'm a Web Engineer with more than 15 years working with web technologies, particularly in Front-End in the last few years.
-
-I've been working with companies that have aided the growth of entrepreneurs, small and medium-sized businesses through the services they offer, from A/B testing, online reservation applications, and programmatic advertising. 
-
-As a Software Engineer, I do my best to build high-quality web products, getting involved in all stages of development, such as project planning, product specifications, interface design, system design, testing, implementation, and the CI/CD pipeline.
-
-I'm an advocate of the Kaizen principle, which promotes the idea that constant, incremental improvement is the key to achieving lasting and impactful success
+Highly motivated Software Engineer with 20 years of experience building full-stack web applications, specializing in front-end development. A proactive and accountable team player passionate about collaborating with cross-functional teams to deliver exceptional user experiences. Eager to tackle industry challenges and create impactful web products.
 
 My mantra is “Progress, not perfection”.
 
 - 🔭 I’m currently working on a minimalistic stock market UI [thebroker](https://thebroker.vercel.app/)
 - 🌱 I’m currently learning [remix](https://remix.run/) and systems design
-- 👯 I’m looking to collaborate on an exciting project that makes a good impact on world or society
-- 🤔 I’m looking for help with my personal and career growth
+- 👯 I’m looking to collaborate on an exciting project that makes a good impact on people's lives
 - 💬 Ask me about Javascript, Web Technologies, or Soft Skills
 - 📫 How to reach me: 
   - [alejandro@gomezarceo.mx](mailto=alejandro@gomezarceo.mx)
   - [@alexserver](https://x.com/alexserver)
   - [LinkedIn](https://www.linkedin.com/in/alejandrogomezarceo/)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/Dude/Wey/Vato/Bro/Buddy
 
 ### Projects
 
-- [The oneliner](https://theoneliner.vercel.app/). A random joke comedian, made with Remix.
+- [Paisania](https://paisania.es). A platform that wants to connect conscious travelers with local communities within Spain.
 - [The broker](https://thebroker.vercel.app/). A minimalist UI for the stock market info.
-- [Paisania](https://paisania.es). A platform that wants to connect conscious travelers with local communities within Spain (coming-soon).
-- [Soft Skills](https://soft-skills.gomezarceo.mx/). A soft skills cheatsheet made with Astro.
+- [The oneliner](https://theoneliner.vercel.app/). A random joke comedian, made with Remix.
+
 
 ### Resume
 
